@@ -7,3 +7,5 @@ written for the [HackerRank ProjectEuler+](https://www.hackerrank.com/contests/p
     + [Project Euler #1: Multiples of 3 and 5 | ProjectEuler+ Question | Contests | HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler001)
 2. [Even Fibonacci numbers](https://projecteuler.net/problem=2): [euler002.py](euler002.py)
     + [Project Euler #2: Even Fibonacci numbers | ProjectEuler+ Question | Contests | HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler002)
+3. [Problem 3 - Project Euler](https://projecteuler.net/problem=3): [euler003.py](euler003.py)
+    + [Project Euler #3: Largest prime factor | ProjectEuler+ Question | Contests | HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler003)
