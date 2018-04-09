@@ -16,6 +16,8 @@ written for the [HackerRank ProjectEuler+](https://www.hackerrank.com/contests/p
     + [Project Euler #4: Largest palindrome product | ProjectEuler+ Question | Contests | HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler004)
     + [euler004.py](euler004.py)
 5. [Smallest multiple](https://projecteuler.net/problem=5)
+    + [Project Euler #5: Smallest multiple | ProjectEuler+ Question | Contests | HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler005)
+    + [euler005.py](euler005.py)
 6. [Sum square difference](https://projecteuler.net/problem=6)
 7. [10001st prime](https://projecteuler.net/problem=7)
 8. [Largest product in a series](https://projecteuler.net/problem=8)
